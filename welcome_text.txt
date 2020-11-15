@@ -1,0 +1,15 @@
+Welcome to BlackJack game!
+
+Rules are simple: make more scores than opponent, but not exceeded 21. You`ve got 21 scores and you are automatically winner!
+
+Gameplay:
+1. Your name
+2. Number of decks (hearts, diamonds, spades, clubs x Number of decks)
+3. Make a bet
+4. Play (2 cards start, then choose either you need next one etc, Hit, or Stand)
+5. You win, if you get BlackJat (Face and Ace) - get your bet x 1.5 back!
+   You win, if you get more than Croupier - get your bet x 1 back!
+   You loose, if you get less than Croupier! Then go away and play again!
+6. Play until you have money
+
+Enjoy!
